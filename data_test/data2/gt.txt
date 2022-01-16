@@ -1,0 +1,2 @@
+2 boxes removed
+[ 1920x1080  p[950.995 564.756]  f[1367.27 1365.57]  Inverse Brown Conrady [0 0 0 0 0] ]

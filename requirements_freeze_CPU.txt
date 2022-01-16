@@ -1,0 +1,79 @@
+absl-py==0.11.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+cachetools==4.2.1
+certifi==2020.6.20
+chardet==4.0.0
+click==8.0.3
+cycler==0.10.0
+Cython==0.29.21
+dataclasses==0.8
+dbr==8.8
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+docopt==0.6.2
+Flask==2.0.2
+google-auth==1.24.0
+google-auth-oauthlib==0.4.2
+grpcio==1.35.0
+idna==2.10
+importlib-metadata==3.4.0
+imutils==0.5.4
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous==2.0.1
+jedi==0.17.0
+Jinja2==3.0.2
+kiwisolver==1.3.1
+Markdown==3.3.3
+MarkupSafe==2.0.1
+# Editable install with no version control (maskrcnn-benchmark==0.1)
+-e /home/nishant/Wipro/work/src/box_count
+matplotlib==3.3.4
+mkl-fft==1.2.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+ninja==1.10.0.post2
+numpy==1.19.5
+oauthlib==3.1.0
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+pandas==1.1.5
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pep8==1.7.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pika==1.2.0
+Pillow==8.1.0
+pipreqs==0.4.11
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.14.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycodestyle==2.7.0
+Pygments @ file:///tmp/build/80754af9/pygments_1610565767015/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+pyzbar==0.1.8
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+six @ file:///tmp/build/80754af9/six_1605205335545/work
+sysrsync==1.0.0
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+toml==0.10.2
+torch==1.7.1+cpu
+torchaudio==0.7.2
+torchvision==0.8.2+cpu
+tqdm==4.56.0
+traitlets==4.3.3
+typing-extensions==3.7.4.3
+urllib3==1.26.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+Werkzeug==2.0.2
+yacs==0.1.8
+yarg==0.1.9
+zipp==3.4.0

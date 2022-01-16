@@ -1,0 +1,95 @@
+# packages in environment at /home/nishant/anaconda3/Wipro_DataScientist/envs/rcnn:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+absl-py                   0.11.0                   pypi_0    pypi
+backcall                  0.2.0              pyhd3eb1b0_0  
+blas                      1.0                         mkl    anaconda
+ca-certificates           2020.10.14                    0    anaconda
+cachetools                4.2.1                    pypi_0    pypi
+certifi                   2020.6.20                py36_0    anaconda
+chardet                   4.0.0                    pypi_0    pypi
+click                     8.0.3                    pypi_0    pypi
+cycler                    0.10.0                   pypi_0    pypi
+cython                    0.29.21                  pypi_0    pypi
+dataclasses               0.8                      pypi_0    pypi
+decorator                 4.4.2              pyhd3eb1b0_0  
+flask                     2.0.2                    pypi_0    pypi
+google-auth               1.24.0                   pypi_0    pypi
+google-auth-oauthlib      0.4.2                    pypi_0    pypi
+grpcio                    1.35.0                   pypi_0    pypi
+idna                      2.10                     pypi_0    pypi
+importlib-metadata        3.4.0                    pypi_0    pypi
+imutils                   0.5.4                    pypi_0    pypi
+intel-openmp              2020.2                      254    anaconda
+ipython                   7.16.1           py36h5ca1d4c_0  
+ipython_genutils          0.2.0              pyhd3eb1b0_1  
+itsdangerous              2.0.1                    pypi_0    pypi
+jedi                      0.17.0                   py36_0  
+jinja2                    3.0.2                    pypi_0    pypi
+kiwisolver                1.3.1                    pypi_0    pypi
+libedit                   3.1.20191231         h14c3975_1  
+libffi                    3.2.1             hf484d3e_1007  
+libgcc-ng                 9.1.0                hdf63c60_0  
+libgfortran-ng            7.3.0                hdf63c60_0    anaconda
+libstdcxx-ng              9.1.0                hdf63c60_0  
+markdown                  3.3.3                    pypi_0    pypi
+markupsafe                2.0.1                    pypi_0    pypi
+maskrcnn-benchmark        0.1                       dev_0    <develop>
+matplotlib                3.3.4                    pypi_0    pypi
+mkl                       2019.4                      243    anaconda
+mkl-service               2.3.0            py36he904b0f_0    anaconda
+mkl_fft                   1.2.0            py36h23d657b_0    anaconda
+mkl_random                1.0.4            py36hd81dba3_0  
+ncurses                   6.2                  he6710b0_1  
+ninja                     1.10.0.post2             pypi_0    pypi
+numpy                     1.19.5                   pypi_0    pypi
+numpy-base                1.19.1           py36hfa32c7d_0    anaconda
+oauthlib                  3.1.0                    pypi_0    pypi
+opencv-contrib-python     4.5.1.48                 pypi_0    pypi
+opencv-python             4.5.1.48                 pypi_0    pypi
+openssl                   1.1.1h               h7b6447c_0    anaconda
+pandas                    1.1.5                    pypi_0    pypi
+parso                     0.8.1              pyhd3eb1b0_0  
+pep8                      1.7.1                    pypi_0    pypi
+pexpect                   4.8.0              pyhd3eb1b0_3  
+pickleshare               0.7.5           pyhd3eb1b0_1003  
+pillow                    8.1.0                    pypi_0    pypi
+pip                       20.3.3           py36h06a4308_0  
+prompt-toolkit            3.0.8                      py_0  
+protobuf                  3.14.0                   pypi_0    pypi
+ptyprocess                0.7.0              pyhd3eb1b0_2  
+pyasn1                    0.4.8                    pypi_0    pypi
+pyasn1-modules            0.2.8                    pypi_0    pypi
+pycodestyle               2.7.0                    pypi_0    pypi
+pygments                  2.7.4              pyhd3eb1b0_0  
+pyparsing                 2.4.7                    pypi_0    pypi
+python                    3.6.7                h0371630_0  
+python-dateutil           2.8.1                    pypi_0    pypi
+pytz                      2021.1                   pypi_0    pypi
+pyyaml                    5.4.1                    pypi_0    pypi
+readline                  7.0                  h7b6447c_5  
+requests                  2.25.1                   pypi_0    pypi
+requests-oauthlib         1.3.0                    pypi_0    pypi
+rsa                       4.7                      pypi_0    pypi
+scipy                     1.5.2            py36h0b6359f_0    anaconda
+setuptools                52.0.0           py36h06a4308_0  
+six                       1.15.0           py36h06a4308_0  
+sqlite                    3.33.0               h62c20be_0  
+tensorboard               2.4.1                    pypi_0    pypi
+tensorboard-plugin-wit    1.8.0                    pypi_0    pypi
+tk                        8.6.10               hbc83047_0  
+torch                     1.7.1+cpu                pypi_0    pypi
+torchaudio                0.7.2                    pypi_0    pypi
+torchvision               0.8.2+cpu                pypi_0    pypi
+tqdm                      4.56.0                   pypi_0    pypi
+traitlets                 4.3.3                    py36_0  
+typing-extensions         3.7.4.3                  pypi_0    pypi
+urllib3                   1.26.3                   pypi_0    pypi
+wcwidth                   0.2.5                      py_0  
+werkzeug                  2.0.2                    pypi_0    pypi
+wheel                     0.36.2             pyhd3eb1b0_0  
+xz                        5.2.5                h7b6447c_0  
+yacs                      0.1.8                    pypi_0    pypi
+zipp                      3.4.0                    pypi_0    pypi
+zlib                      1.2.11               h7b6447c_3  
